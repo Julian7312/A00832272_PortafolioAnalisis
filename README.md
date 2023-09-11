@@ -34,4 +34,9 @@
 
 * <a href="https://github.com/Julian7312/A00832272_PortafolioAnalisis/blob/main/Entregas%20Finales/ML/An%C3%A1lisis%20del%20contexto%20y%20la%20normatividad./README.md">README.md</a>
 
-### 
+### Análisis y Reporte sobre el desempeño del modelo
+* <a href="https://github.com/Julian7312/A00832272_PortafolioAnalisis/blob/main/Entregas%20Finales/ML/An%C3%A1lisis%20y%20Reporte%20sobre%20el%20desempe%C3%B1o%20del%20modelo/An%C3%A1lisis_y_Reporte_sobre_el_desempe%C3%B1o_del_modelo.ipynb">REPORTE/SCRIPT</a>
+
+* <a href="https://github.com/Julian7312/A00832272_PortafolioAnalisis/blob/main/Entregas%20Finales/ML/An%C3%A1lisis%20y%20Reporte%20sobre%20el%20desempe%C3%B1o%20del%20modelo/README.md">README.md</a>
+
+* <a href="https://github.com/Julian7312/A00832272_PortafolioAnalisis/blob/main/Entregas%20Finales/ML/An%C3%A1lisis%20y%20Reporte%20sobre%20el%20desempe%C3%B1o%20del%20modelo/abalone.data">Datos</a>
