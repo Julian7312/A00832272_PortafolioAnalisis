@@ -4,7 +4,7 @@
 En este directorio se puede encontrar él Jupyter Notebook donde se implementó la regresión lineal utilizando scikit learn así como un reporte donde se analiza el rendimiento de dicho algoritmo:
 
 Archivos para revisar:
-* <a href="https://github.com/Julian7312/A00832272_PortafolioAnalisis/edit/main/Entregas%20Finales/ML/An%C3%A1lisis%20y%20Reporte%20sobre%20el%20desempe%C3%B1o%20del%20modelo/README.md">README.md</a>
+* <a href="https://github.com/Julian7312/A00832272_PortafolioAnalisis/blob/main/Entregas%20Finales/ML/An%C3%A1lisis%20y%20Reporte%20sobre%20el%20desempe%C3%B1o%20del%20modelo/README.md">README.md</a>
 * <a href="https://github.com/Julian7312/A00832272_PortafolioAnalisis/blob/main/Entregas%20Finales/ML/An%C3%A1lisis%20y%20Reporte%20sobre%20el%20desempe%C3%B1o%20del%20modelo/An%C3%A1lisis_y_Reporte_sobre_el_desempe%C3%B1o_del_modelo.ipynb">REPORTE/SCRIPT</a>
 * <a href="https://github.com/Julian7312/A00832272_PortafolioAnalisis/blob/main/Entregas%20Finales/ML/An%C3%A1lisis%20y%20Reporte%20sobre%20el%20desempe%C3%B1o%20del%20modelo/abalone.data">Datos</a>
 
