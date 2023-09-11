@@ -40,3 +40,15 @@
 * <a href="https://github.com/Julian7312/A00832272_PortafolioAnalisis/blob/main/Entregas%20Finales/ML/An%C3%A1lisis%20y%20Reporte%20sobre%20el%20desempe%C3%B1o%20del%20modelo/README.md">README.md</a>
 
 * <a href="https://github.com/Julian7312/A00832272_PortafolioAnalisis/blob/main/Entregas%20Finales/ML/An%C3%A1lisis%20y%20Reporte%20sobre%20el%20desempe%C3%B1o%20del%20modelo/abalone.data">Datos</a>
+
+### Algunas distribuciones de probabilidad
+* <a href="https://github.com/Julian7312/A00832272_PortafolioAnalisis/blob/main/Entregas%20Finales/Estadistica/Algunas%20distribuciones%20de%20probabilidad_A00832272.pdf">Algunas distribuciones de probabilidad</a>
+
+### Explorando Bases
+* <a href="https://github.com/Julian7312/A00832272_PortafolioAnalisis/blob/main/Entregas%20Finales/Estadistica/ExplorandoBases_merged_A00832272.pdf">Explorando Bases</a>
+
+### Transformaciones
+* <a href="https://github.com/Julian7312/A00832272_PortafolioAnalisis/blob/main/Entregas%20Finales/Estadistica/Transformaciones_A00832272-1.pdf">Transformaciones</a>
+
+### El precio de los autos
+* <a href="https://github.com/Julian7312/A00832272_PortafolioAnalisis/blob/main/Entregas%20Finales/Estadistica/El%20precio%20de%20los%20autos.ipynb">El precio de los autos</a>
