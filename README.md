@@ -54,4 +54,4 @@
 * <a href="https://github.com/Julian7312/A00832272_PortafolioAnalisis/blob/main/Entregas%20Finales/Estadistica/El%20precio%20de%20los%20autos.ipynb">El precio de los autos</a>
 
 ### Modulo 1 Reporte completo de El precio de los autos
-* <a herf="https://github.com/Julian7312/A00832272_PortafolioAnalisis/blob/main/Entregas Finales/Estadistica/Reporte completo de El precio de los autos .pdf">Reporte Final</a>
+* <a href="https://github.com/Julian7312/A00832272_PortafolioAnalisis/blob/main/Entregas Finales/Estadistica/Reporte completo de El precio de los autos .pdf">Reporte Final</a>
